@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360">
+<rect width="1280" height="360" rx="24" fill="#111611"/>
+<rect x="48" y="46" width="8" height="265" fill="#76b900"/>
+<text x="88" y="92" fill="#76b900" font-family="Arial,sans-serif" font-size="22" font-weight="bold">PRUEBA LOCAL · LLAMA.CPP · GGUF Q5_K_M</text>
+<text x="88" y="156" fill="white" font-family="Arial,sans-serif" font-size="48" font-weight="bold">NVIDIA Nemotron 3 Nano</text>
+<text x="88" y="215" fill="white" font-family="Arial,sans-serif" font-size="38">30B-A3B</text>
+<text x="88" y="276" fill="#c7d2c3" font-family="Arial,sans-serif" font-size="23">Descarga → Configura → Ejecuta → Comprueba</text>
+<text x="1000" y="160" fill="#76b900" font-family="Arial,sans-serif" font-size="58" font-weight="bold">32K</text>
+<text x="1000" y="203" fill="#c7d2c3" font-family="Arial,sans-serif" font-size="21">contexto usado</text>
+</svg>

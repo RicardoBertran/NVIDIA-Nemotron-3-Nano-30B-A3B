@@ -1,0 +1,13 @@
+# Pesos y modelos locales
+models/
+*.gguf
+*.bin
+# Binarios y dependencias locales
+llama.cpp/
+*.exe
+*.dll
+# Descargas y registros
+.cache/
+logs/
+*.log
+.env
